@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-verma-prabhat/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Prabhat2802)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/code_revival/)
@@ -21,6 +21,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://rauneet-singh.vercel.app/)
 
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prabhat2802&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Prabhat2802?label=Followers&style=for-the-badge&color=00F7FF" />
+</p>
 
 ---
 
@@ -46,6 +51,30 @@ const Prabhat = {
     funFact: "Appeared for SSB"
 };
 ```
+
+<br clear="right"/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prabhat2802&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhat2802&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhat2802&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhat2802&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prabhat2802&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -53,14 +82,14 @@ const Prabhat = {
 <div align="center">
 
 ### 💻 Programming Languages
-<div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; margin: 10px 0;">
+<p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</div>
+</p>
 
 ### 🗄️ Database & RDBMS
 <p>
@@ -120,16 +149,26 @@ const Prabhat = {
 
 ---
 
+## 📌 Pinned Projects
+
+> Update the rows below with your own repos — replace `Prabhat2802/REPO-NAME` with the actual repository names you want to showcase.
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Prabhat2802&repo=REPO-NAME-1&theme=tokyonight&hide_border=true)](https://github.com/Prabhat2802/REPO-NAME-1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Prabhat2802&repo=REPO-NAME-2&theme=tokyonight&hide_border=true)](https://github.com/Prabhat2802/REPO-NAME-2)
+
+</div>
+
+---
+
 ## 💡 Fun Facts
 
 <div align="center">
 
-🎮 Love building real-time applications  
-🕮 Reading Books  
-📸 Photography and music lover  
-🏃 Outdoor sports adventurer  
-✍️ Technical writing enthusiast  
-🎯 Interested in Defense Services
+🎮 Love building real-time applications&nbsp;&nbsp;|&nbsp;&nbsp;🕮 Reading Books&nbsp;&nbsp;|&nbsp;&nbsp;📸 Photography & music lover
+<br>
+🏃 Outdoor sports adventurer&nbsp;&nbsp;|&nbsp;&nbsp;✍️ Technical writing enthusiast&nbsp;&nbsp;|&nbsp;&nbsp;🎯 Interested in Defense Services
 
 </div>
 
@@ -148,10 +187,11 @@ const Prabhat = {
 <a href="https://github.com/Prabhat2802">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://rauneet-singh.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
 
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 
 ### 💬 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
@@ -159,7 +199,6 @@ const Prabhat = {
 
 ### Show some ❤️ by starring some of my repositories!
 
-![](https://komarev.com/ghpvc/?username=rnt07s&color=blueviolet&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 
 </div>
-
