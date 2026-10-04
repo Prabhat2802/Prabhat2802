@@ -1,137 +1,164 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Prabhat+Verma;Full-Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Prabhat%20Verma&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%" alt="Header" />
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Applications;Full-Stack+Developer+%7C+Open+Source;400%2B+Problems+Solved;Always+Learning+New+Technologies" alt="Typing SVG" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Building+scalable+web+applications;Full-Stack+Developer+%7C+Open+Source;400%2B+problems+solved;Always+learning+new+technologies" alt="Typing SVG" />
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-verma-prabhat/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/code_revival/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhatverma252@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rauneet-singh.vercel.app/)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-verma-prabhat/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Prabhat2802)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/code_revival/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhatverma252@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://rauneet-singh.vercel.app/)
 
 </div>
 
 ---
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 ```javascript
-const prabhat = {
-  location: "Kanpur, India 🇮🇳",
-  education: "B.Tech CSE, MPGI",
-  role: "Full-Stack Developer",
-  languages: ["JavaScript", "Python", "C++"],
-  currentFocus: "Building scalable applications",
-  askMeAbout: ["Web Dev", "APIs", "Cloud", "Books"],
-  funFact: "Appeared for SSB 🎖️",
+const Prabhat = {
+    location: "Kanpur, India 🇮🇳",
+    education: "MPGI - CSE",
+    role: "Full-Stack Developer",
+    code: ["JavaScript", "Python", "C++"],
+    askMeAbout: ["Web Dev", "APIs", "Cloud", "Books"],
+    technologies: {
+        frontend: ["React", "Redux", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express", "FastAPI", "Flask"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        devOps: ["AWS", "Docker", "CI/CD", "Jenkins"],
+        testing: ["Jest", "TDD"]
+    },
+    currentFocus: "Building scalable applications",
+    funFact: "Appeared for SSB"
 };
 ```
-
-- 🔭 Building scalable full-stack applications with React, Node.js and Python
-- 🧩 400+ problems solved on LeetCode, with a strong DSA foundation
-- ☁️ Working with AWS, Docker and CI/CD pipelines
-- 🎮 Love building real-time applications
-- ✍️ Technical writing enthusiast
-
-<br clear="right"/>
-
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+### 💻 Programming Languages
+<div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=js,py,cpp,c,cs&theme=dark" alt="Languages" />
+### 🗄️ Database & RDBMS
+<p>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Query_Optimization-FF6C37?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Modeling-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+</p>
 
-**Frontend**
+### ☁️ Cloud Platforms
+<p>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Big_Data-FF6F00?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,redux,html,css&theme=dark" alt="Frontend" />
+### 🛠️ Development Tools & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-**Backend**
+### 🔄 Development Methodologies
+<p>
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white" />
+  <img src="https://img.shields.io/badge/Waterfall-00ADD8?style=for-the-badge&logo=flow&logoColor=white" />
+  <img src="https://img.shields.io/badge/TDD-25A162?style=for-the-badge&logo=testcafe&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Integration-FF6B6B?style=for-the-badge&logo=integromat&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" alt="Backend" />
+### 🧠 Core Computer Science
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-FF6F61?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=object&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
 
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" alt="Databases" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins,git,github,githubactions&theme=dark" alt="Cloud and DevOps" />
-
-**Testing**
-
-<img src="https://skillicons.dev/icons?i=jest&theme=dark" alt="Testing" />
+### 🤖 Productivity & AI Tools
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_SQL_Generation-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Test_Cases-00C7B7?style=for-the-badge&logo=ai&logoColor=white" />
+</p>
 
 </div>
 
-**Also:** Data Structures & Algorithms · OOP · TDD · Agile · Query Optimization · Data Modeling · GitHub Copilot · Generative AI tools
-
 ---
 
-## 📌 Featured Projects
-
-<!--
-  Replace this block with your best 3-4 projects. Example row:
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**Project Name**](https://github.com/Prabhat2802/repo) | One line on the problem it solves and the result | React · Node.js · MongoDB |
--->
-
-Pinned repositories below:
+## 💡 Fun Facts
 
 <div align="center">
 
-<a href="https://github.com/Prabhat2802/REPO_ONE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhat2802&repo=REPO_ONE&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/Prabhat2802/REPO_TWO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhat2802&repo=REPO_TWO&theme=tokyonight&hide_border=true" /></a>
+🎮 Love building real-time applications  
+🕮 Reading Books  
+📸 Photography and music lover  
+🏃 Outdoor sports adventurer  
+✍️ Technical writing enthusiast  
+🎯 Interested in Defense Services
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Let's Connect!
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prabhat2802&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhat2802&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<a href="mailto:prabhatverma252@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/-verma-prabhat/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Prabhat2802">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=Prabhat2802&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<br><br>
 
-<img src="https://leetcard.jacoblin.cool/code_revival?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="600" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 
-</div>
+### 💬 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-## 💡 Beyond Code
+### Show some ❤️ by starring some of my repositories!
 
-🏃 Outdoor sports · 📸 Photography · 🎵 Music · 📚 Reading · 🎯 Interested in the Defence Services
+![](https://komarev.com/ghpvc/?username=rnt07s&color=blueviolet&style=for-the-badge)
 
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-Open to collaborations, internships and interesting conversations. Reach out any time.
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhatverma252@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-verma-prabhat/)
-
-<br>
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-![Profile views](https://komarev.com/ghpvc/?username=Prabhat2802&color=blueviolet&style=flat-square&label=Profile+views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer" />
-
-</div>
+</div>]
